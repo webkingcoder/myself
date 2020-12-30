@@ -1,0 +1,122 @@
+body
+{
+    margin:0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    color: #40514e;
+}
+h1
+{
+    margin: 10px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+p{line-height: 2;}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height:2;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.top-container
+{
+    text-align: center;
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top:100px;
+}
+.middle-container{background-color: rgb(216, 243, 162);
+    /* margin-top: 100px; */
+    padding:100px 0 50px 0;
+} 
+
+
+.bottom-cloud
+{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 300px; 
+    top: 50px;   
+}
+
+a{color: #11999E;}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+.skill-row1{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align:left;
+}
+.myskills{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.myskills1{
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+}
+/* .code-disc */
+/* { */
+    /* clear: left; */
+/* } */
+/* .code-disc1 */
+/* { */
+    /* clear: right; */
+/* } */
+
+hr 
+{
+    width: 5%;
+    border-style:dotted none none;
+    border-color: grey;
+    border-width: 8px;
+}
+.paradisc{
+    margin: 50px auto;
+    width: 30%;
+    
+}
+.last{margin: 50px auto 50px auto;}
+.btn{
+    background-color: #11999E;
+    color: white;
+    padding: 10px;
+    border: 1px solid #11999E;
+    border-radius: 10px;    
+}
+.bottom-container{
+    background-color: #3fb6ee;
+    margin: 0 auto 50px auto;
+    padding: 20px;
+    margin-bottom: 0;
+    position: relative;
+}
+
+.footer-link{
+   color:#0a6f72;
+   display: inline-block;
+   margin: 50px;
+   font-weight: bolder;
+}
+.contact-me{margin-bottom: 100px;}
+a{text-decoration: none;}
+.copy{color: white;}
